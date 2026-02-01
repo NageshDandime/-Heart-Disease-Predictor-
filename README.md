@@ -73,7 +73,7 @@
   <hr>
 
   <h2>📬 Author</h2>
-  <p>Developed by <strong>Kunal Mahadule</strong></p>
+  <p>Developed by <strong>Nagesh Dandime</strong></p>
   <p>🔗 <a href="https://github.com/NageshDandime" target="_blank">Visit my GitHub Profile</a></p>
 
   <hr>
